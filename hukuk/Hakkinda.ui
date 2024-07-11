@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>804</width>
+    <height>656</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <weight>75</weight>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Hakkında</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+background-color: rgb(226, 255, 255);
+color: rgb(0, 0, 0);
+	border-color: #051a39;</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>10</y>
+     <width>601</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>logo2.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>320</y>
+     <width>291</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Script MT Bold</family>
+     <pointsize>20</pointsize>
+     <weight>75</weight>
+     <italic>true</italic>
+     <bold>true</bold>
+     <underline>false</underline>
+     <strikeout>false</strikeout>
+    </font>
+   </property>
+   <property name="text">
+    <string>  GÜVEN HUKUK</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>210</y>
+     <width>191</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>MS Shell Dlg 2</family>
+     <pointsize>8</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background: transparent;
+
+color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>𝓓𝓮𝓿𝓵𝓮𝓽𝓵𝓮𝓻𝓲𝓷 
+ 𝓻𝓮𝓯𝓪𝓱ı 𝓹𝓪𝓻𝓪𝔂𝓵𝓪  
+𝓭𝓮𝓰̆𝓲𝓵 𝓪𝓭𝓪𝓵𝓮𝓽𝓵𝓮 
+ 𝓸̈𝓵𝓬̧𝓾̈𝓵𝓾̈𝓻.
+       𝓚𝓞𝓝𝓕𝓤̈𝓒𝓨𝓤̈𝓢
+</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>360</y>
+     <width>731</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>9</pointsize>
+     <weight>75</weight>
+     <italic>false</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>   Güven Hukuk Bürosu müvekkilleri için sağladığı hukuki hizmetlerinde özellikle eşitlik, dürüstlük, 
+ güven, saygı ve nezaket çerçevesinde davranarak avukatlık mesleğinin gerektirdiği hukuksal 
+ faaliyetleri yerine getirme gayreti içerisindedir. Gelişme ve istikrarı kendisine amaç edinen ve 
+ alanında en iyisi olma amacıyla çalışan avukatlardan oluşan Örnek Hukuk Bürosu hep daha 
+ iyisine ulaşmayı hedef haline getirenlerin başvuracağı bir hukuk bürosudur.
+
+Alanında 
+ uzman avukatlar, akademik danışmanlar ve ilgili departmanlarımızın diğer idari personelleri 
+ ile yürüttüğümüz çalışmalarımızı inceleyerek sözlü ve yazılı danışmanlık almak ve tarafı 
+ olduğunuz her türlü uyuşmazlıkta tarafınızı temsil etmemiz için aşağıda yer alan 
+ bağlantı yolları ile tarafımızla iletişime geçebilirsiniz.</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>580</y>
+     <width>291</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>E-Mail: info@guvenhukuk.com 
+📞:0 216 564 84 56</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>580</y>
+     <width>281</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Adres: Fevzi Çakmak cd. 3.Sok. 
+No:9/4 Bahçelievler-İstanbul </string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
